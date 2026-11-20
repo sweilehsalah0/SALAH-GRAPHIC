@@ -1,0 +1,1 @@
+window.SALAH_CONFIG={supabaseUrl:"https://qzirfjfabaxgwqdzfhek.supabase.co",supabaseKey:"sb_publishable_xpPjAOwAaVUtygpTULvcRg_pll_Qsz1"};
